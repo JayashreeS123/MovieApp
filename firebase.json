@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/TheMovieApp",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
